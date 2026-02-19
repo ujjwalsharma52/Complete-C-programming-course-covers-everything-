@@ -1,14 +1,15 @@
-//write a program to find maxminm of two naumber
 #include <stdio.h>
-int main() {
-    int a, b;
-    printf("Enter first number integers: ");
-    scanf("%d",&a);
-    printf("enter the second number");
-    scanf("%d",&b);
-    if (a > b)
-        printf("%d is the maximum number.\n", a);
-    else
-        printf("%d is the maximum number.\n", b);
+int main()
+{
+    int i,j,n;
+    printf("Enter the value of n :");
+    scanf("\n%d",&n);
+        for (i=1;i<=10;i++)
+    {
+        printf("\n");
+        for(j=1;j<=i;j++)
+        printf("%d",j);
+       // printf("*");
+    }
     return 0;
 }

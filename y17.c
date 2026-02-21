@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // dddd ccc bb a pattern print 
 #include <stdio.h>
 int main(){
@@ -12,4 +13,19 @@ int main(){
 
     }
     return 0;
+=======
+//write a program to find a volume of cone
+#include <stdio.h>
+int main(){
+  int r;
+float h,volume;
+printf("enter trhe value of r");
+scanf("%d",&r);
+printf("enter the value of h");
+scanf("%f",&h);
+
+volume =3.14*r*r*h*033;
+printf("volume of cone %f",volume);
+return 0;
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }

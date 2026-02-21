@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //print number squre
 #include <stdio.h>
 int main(){
@@ -11,5 +12,12 @@ int main(){
         printf("\n");
     }
     
+=======
+#include <stdio.h>
+int main(){
+  int k;
+  k=3/2*4+3/8;
+  printf("The value of k is %d\n", k);
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 return 0;
 }

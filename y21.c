@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // revrse odd tringle
 #include <stdio.h>
 int main()
@@ -15,4 +16,15 @@ int main()
 
  }
  return 0;
+=======
+#include <stdio.h>
+int main(){
+  int a=123;
+printf("value of a %d\n",a);
+
+  int size=sizeof(a);
+  printf("size is %d",size);
+
+
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }

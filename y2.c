@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // print solid squre
     #include <stdio.h>
     int main(){
@@ -15,4 +16,19 @@
       printf("\n");
     }
     return 0;
+=======
+#include <stdio.h>
+int main(){
+  int n;
+  printf("enter the value of number");
+  scanf("%d",&n);
+  if(n%2==0)
+  {
+    printf("number is even");
+  }
+  else
+  {
+    printf("number is odd");
+  }
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }

@@ -1,7 +1,10 @@
 {
+<<<<<<< HEAD
   "files.associations": {
     "stdio.h": "c"
   },
+=======
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",
@@ -58,5 +61,13 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
+<<<<<<< HEAD
   "C_Cpp_Runner.msvcSecureNoWarnings": false
+=======
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "files.associations": {
+    "stdio.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }

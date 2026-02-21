@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //floyds squre print
 #include <stdio.h>
 int main()
@@ -16,3 +17,18 @@ int main()
  }
  return 0;
 }
+=======
+//program to print table of n number
+#include <stdio.h>
+int main(){
+    int n;
+    printf("\n ENTER THE VALUE OF n");
+    scanf("%d",&n);
+    for(int i=n; i<=n*10;i=i+n)
+    printf("\n %d",i); 
+    return 0;
+}
+
+
+
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf

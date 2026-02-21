@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // zero one triangle
 #include <stdio.h>
 int main(){
@@ -14,4 +15,16 @@ int main(){
             printf("\n");
     }
     return 0;
+=======
+#include <stdio.h>
+int main(){
+int n;
+printf("enter thr value of n :");
+scanf("%d",&n);
+for(int i=1;i<=n;i++)
+{
+  printf("%d ",i);
+}
+return 0;
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }

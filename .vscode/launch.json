@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/ujjwa/OneDrive/Desktop/pattern printing 1",
       "program": "c:/Users/ujjwa/OneDrive/Desktop/pattern printing 1/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/ujjwa/OneDrive/Desktop/c in class",
+      "program": "c:/Users/ujjwa/OneDrive/Desktop/c in class/build/Debug/outDebug",
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

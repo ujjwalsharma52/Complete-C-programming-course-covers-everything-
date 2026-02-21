@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 1 22 333 4444 ..........print
 #include <stdio.h>
 int main()
@@ -12,4 +13,18 @@ int main()
         printf("\n");
     }
     return 0;
+=======
+// area of trianglecc
+#include <stdio.h>
+int main(){
+  float b;
+  float h;
+  float area;
+  printf("enter the value of b");
+  scanf("%d",&b);
+  printf("enter the value of h");
+  scanf("%d",&h);
+  area= 0.5 * b * h;
+  printf("Area of triangle is %d",area);
+>>>>>>> b8c8d93d1547e1c1a311b84e72776280f983facf
 }
